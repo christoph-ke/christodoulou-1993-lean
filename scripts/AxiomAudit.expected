@@ -1,0 +1,4 @@
+'ChristodoulouBV.theorem3_1_unique' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ChristodoulouBV.theorem3_1_extend' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ChristodoulouBV.theorem5_1' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ChristodoulouBV.theorem6_1_6_2_exists' depends on axioms: [propext, Classical.choice, Quot.sound]

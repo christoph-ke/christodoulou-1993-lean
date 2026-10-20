@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: >-
+  If you use this formalization, please cite it as below, together with the formalized paper.
+  Formalized by the Einstein–Scalar Field Collaboration, with assistance from Claude Code and OpenAI Codex.
+type: software
+title: "A Lean formalization of Christodoulou's bounded variation solutions of the spherically symmetric Einstein-scalar field equations"
+version: 1.0.0
+license: Apache-2.0
+repository-code: "https://github.com/christoph-ke/christodoulou-1993-lean"
+keywords:
+  - Lean 4
+  - Mathlib
+  - formalization
+  - general relativity
+  - Einstein-scalar field
+  - bounded variation
+authors:
+  - name: "Einstein–Scalar Field Collaboration"
+references:
+  - type: article
+    title: "Bounded variation solutions of the spherically symmetric Einstein-scalar field equations"
+    authors:
+      - given-names: Demetrios
+        family-names: Christodoulou
+    journal: "Communications on Pure and Applied Mathematics"
+    volume: 46
+    issue: 8
+    start: 1131
+    end: 1220
+    year: 1993
+    doi: "10.1002/cpa.3160460803"
+  - type: article
+    title: "Quantitative decay rates for dispersive solutions to the Einstein-scalar field system in spherical symmetry"
+    authors:
+      - given-names: Jonathan
+        family-names: Luk
+      - given-names: Sung-Jin
+        family-names: Oh
+    journal: "Analysis & PDE"
+    volume: 8
+    issue: 7
+    start: 1603
+    end: 1674
+    year: 2015
+    doi: "10.2140/apde.2015.8.1603"
